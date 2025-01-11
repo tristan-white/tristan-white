@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋 I'm Tristan, nice to meet you.
 
 <!--
 **tristan-white/tristan-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Languages I Use (More Often to Less Often)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
