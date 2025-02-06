@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello! 👋 I'm Tristan, nice to meet you.
+  Hey 👋 I'm Tristan
 </h1>
 
 <p align="center">
